@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Custom Layout</string>
+    <string name="textview">TextView</string>
+    <string name="click_me">Click Me</string>
+    <string name="smiley">Smiley</string>
+    <string name="customlayout">Click the button below to view a Custom layout</string>
+    <string name="ralativelayout">Click a button from below to see what happen ?</string>
+    <string name="relativelayout1">Relative Layout</string>
+    <string name="next">Next</string>
+    <string name="dispaly">“Congrats! You have successfully added a new activity, custom layout, and added image/vector asset.”</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="home">Home</string>
+    <string name="important">Important</string>
+    <string name="card_gift">Card Gift</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share">share this app</string>
+    <string name="more">more apps from us</string>
+    <string name="label_communicate">Communicate</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
